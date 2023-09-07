@@ -149,7 +149,7 @@ section {
 .btn-alpha:hover{
   background-color: rgba(255,255,255,0.8);
   box-shadow: 1px 1px 12px 1px rgba(0,0,0,0.3);
-}
+}svg
 
 .text-primary-darker{
   color:#5285DF;
@@ -169,12 +169,14 @@ section {
 
 /* 320 */
 .logo-pc {
-  height: 60px;
+  width: 368;
+  height: 124px;
 }
 
 /* 150 */
 .logo-mobile{
-  height: 30px;
+  width: 184;
+  height: 62px;
 }
 
 .text-title{

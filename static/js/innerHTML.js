@@ -392,10 +392,10 @@ const str_footer = `    <footer class="bg-footer">
       <div class="d-flex h-100 align-items-center justify-content-center justify-content-lg-end">
         <div>
           <a class="text-decoration-none" href="https://www.nantou.gov.tw/big5/index.asp" target="_blank">
-            <img class="mr-1 footer_images" src="/static/imgs/townWay-icon.svg" alt="" style="height: 35px;">
+            <img class="mr-1 footer_images" src="/static/imgs/townWay-icon.svg" alt="" style="width: 234px; height: 41px;">
           </a>
           <a class="text-decoration-none" href="https://www.youtube.com/user/nantouable" target="_blank">
-            <img class="footer_images" src="/static/imgs/youtube-icon.svg" alt="" style="height: 25px;">
+            <img class="footer_images" src="/static/imgs/youtube-icon.svg" alt="" style="height: 41px;">
           </a>
         </div>
       </div>
