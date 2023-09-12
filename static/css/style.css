@@ -41,7 +41,7 @@ body {
 }
 
 body {
-  padding-top: 94px;
+  padding-top: 167px; /* 94px; */
 }
 
 section {
@@ -160,7 +160,11 @@ section {
 }
 
 .bg-footer {
-    background-color: #065A5A !important;
+    background-color: #0D3956 !important;
+}
+
+#footer *, #copyright {
+  color: #FFFFFF !important;
 }
 
 .fw-bold{
