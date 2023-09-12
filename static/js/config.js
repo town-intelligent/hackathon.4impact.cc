@@ -6,7 +6,7 @@ HOST_URL_TPLANET_DAEMON = "https://tplanet-backend.townway.com.tw";
 HOST_URL_EID = "https://passport.4impact.cc/";
 
 // Site hoster
-SITE_HOSTERS = ["hackathon4impact@gmail.com", "ti@4impact.cc"]
+SITE_HOSTERS = ["hackathon4impact@gmail.com"]
 
 // Site information
 SITE_TYPE = 1 // 0 or 1(公板)
