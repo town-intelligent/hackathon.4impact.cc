@@ -35,7 +35,7 @@ SITE_HOSTERS = [
     "s110453024@mail1.ncnu.edu.tw",
     "s110213052@mail1.ncnu.edu.tw",
     "ivyctw@gmail.com",
-    "cn98211@gmail.com"
+    "s109213056@mail1.ncnu.edu.tw"
 ];
 
 // Site information
