@@ -394,7 +394,7 @@ const str_footer = `    <footer class="bg-footer">
           <a class="text-decoration-none" href="https://www.nantou.gov.tw/big5/index.asp" target="_blank">
             <img class="mr-1 footer_images" src="/static/imgs/townWay-icon.svg" alt="" style="width: 234px; height: 41px;">
           </a>
-          <a class="text-decoration-none" href="https://www.youtube.com/user/nantouable" target="_blank">
+          <a class="text-decoration-none" href="https://www.youtube.com/@user-yy1dp1zf5u" target="_blank">
             <img class="footer_images" src="/static/imgs/youtube-icon.svg" alt="" style="height: 41px;">
           </a>
         </div>
