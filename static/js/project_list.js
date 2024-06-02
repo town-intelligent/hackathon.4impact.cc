@@ -11,6 +11,8 @@ export function set_page_info_project_list() {
   }
 
   for (var index = 0; index < list_project_uuids.length; index++) {
+    console.log("Hello got project uuid, ", list_project_uuids[index])
+
     var obj_project = plan_info(list_project_uuids[index]);
 
     /* Replace variable in str_project_block_in_project_page_page */
