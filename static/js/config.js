@@ -3,7 +3,7 @@ HOST_URL_EID_DAEMON = "https://eid-backend.townway.com.tw";
 HOST_URL_TPLANET_DAEMON = "https://tplanet-backend.townway.com.tw";
 
 // EID
-HOST_URL_EID = "https://alpha-passport.4impact.cc/";
+HOST_URL_EID = "https://passport.4impact.cc/";
 
 // Site hoster
 SITE_HOSTERS = [
