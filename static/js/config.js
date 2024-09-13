@@ -1,6 +1,5 @@
-// Host
-HOST_URL_EID_DAEMON = "https://eid-backend.townway.com.tw";
-HOST_URL_TPLANET_DAEMON = "https://tplanet-backend.townway.com.tw";
+HOST_URL_EID_DAEMON = "https://eid-backend.4impact.cc";
+HOST_URL_TPLANET_DAEMON = "https://tplanet-backend.4impact.cc";
 
 // EID
 HOST_URL_EID = "https://passport.4impact.cc/";
@@ -35,7 +34,28 @@ SITE_HOSTERS = [
     "s110453024@mail1.ncnu.edu.tw",
     "s110213052@mail1.ncnu.edu.tw",
     "ivyctw@gmail.com",
-    "s109213056@mail1.ncnu.edu.tw"
+    "s109213056@mail1.ncnu.edu.tw",
+    "kaixiang.lin0215@gmail.com",
+    "liawyuzher99@gmail.com",
+    "sgtr456789@gmail.com",
+    "yuzhen970114@gmail.com",
+    "st210002@skjhs.ntc",
+    "st210004@skjhs.ntct.edu.tw",
+    "110366@goog.ptsh.ntct.edu.tw",
+    "luoyile55@gmail.com",
+    "110369@goog.ptsh.ntct.edu.tw",
+    "s0146859@jyjh.ntct.edu.tw",
+    "t22683@cljh.ntct.edu.tw",
+    "qwer091121@yahoo.com",
+    "s0147531@sgjh.ntct.edu.tw",
+    "111134@ntjh.ntct.edu.tw",
+    "b0913095261@gmail.com",
+    "t08627@ycjhs.ntct.edu.tw",
+    "zzz387865@gmail.com",
+    "aa0975092379@gmail.com",
+    "v0956556261@gmail.com",
+    "tina20110217@gmail.com",
+    "danielchen5678@gmail.com"
 ];
 
 // Site information
