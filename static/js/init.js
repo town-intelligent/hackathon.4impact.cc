@@ -91,15 +91,14 @@ function set_navbar_animation() {
   });
 }
 
-function navbar(group) {
+function navbar(email) {
   add_navbar()
   add_footer()
   set_navbar_animation()
 
   // home logo href
-  if (group == "200" || group == "201" ) {
-      document.getElementById("index_logo").href =
-      "/backend/admin_agent_dashboard.html";
+  if (SITE_HOSTERS.includes(email)) {
+    document.getElementById("index_logo").href = "/index.html";
 
     try {
       var obj_account_status = document.getElementById("account_status");
@@ -132,10 +131,10 @@ function navbar(group) {
 set_page_info();
 
 // Get group
-var group = getLocalStorage("group");
+var email = getLocalStorage("email");
 
 // navbar
-navbar(group);
+navbar(email);
 
 // footer
 add_footer();
