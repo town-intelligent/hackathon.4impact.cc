@@ -57,7 +57,8 @@ SITE_HOSTERS = [
     "tina20110217@gmail.com",
     "danielchen5678@gmail.com",
     "s210125@stu.cshs.ntct.edu.tw",
-    "112090@dcjh.ntct.edu.tw"
+    "112090@dcjh.ntct.edu.tw",
+    "112068@dcjh.ntct.edu.tw"
 ];
 
 // Site information
