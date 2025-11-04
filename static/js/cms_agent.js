@@ -476,7 +476,7 @@ $(function () {
 
 export function set_page_info_cms_agent(uuid){
   /* Create DOM */
-  const list_project_obj = list_plans(getLocalStorage("email"));
+  const list_project_obj = list_plans(getLocalStorage("email"), null, 0, null);
 
   if (list_project_obj == undefined) {
     return;
